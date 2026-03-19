@@ -1,7 +1,7 @@
 # Hi, I'm Yasra Nafees 👋
 
 AI Engineer focused on RAG systems, LLM agents, and ML solutions.
-Currently seeking remote AI internship opportunities.
+
 
 ## 🚀 Featured Projects
 
