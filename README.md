@@ -5,7 +5,7 @@ AI Engineer focused on RAG systems, LLM agents, and ML solutions.
 
 ##  Featured Projects
 
-### 🤖 [DocuBrain AI](https://github.com/YasraNafees/DocuBrain-AI)
+###  [DocuBrain AI](https://github.com/YasraNafees/DocuBrain-AI)
 Enterprise RAG chatbot with SHA256 fingerprinting, local indexing & hallucination control  
 `Python` `LangChain` `ChromaDB` `FastAPI` `HuggingFace`
 
